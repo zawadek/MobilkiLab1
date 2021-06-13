@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">PierwszaAplikacja</string>
+    <string name="imietv">Imię: </string>
+    <string name="nazwiskotv">Nazwisko: </string>
+    <string name="ocenytv">Liczba ocen: </string>
+    <string name="sredniatv">Twoja srednia to: %.2f</string>
+
+    <string name="imiehint">Wpisz imię</string>
+    <string name="nazwiskohint">Wpisz nazwisko</string>
+    <string name="ocenyhint">Wpisz liczbę ocen (5-15)</string>
+
+    <string name="imieTost">Imię nie może być puste</string>
+    <string name="nazwiskoTost">Nazwisko nie może być puste</string>
+    <string name="ocenyTost1">Niewlasciwa liczba ocen</string>
+    <string name="ocenyTost2">Liczba ocen nie może być pusta</string>
+
+    <string name="buttonOceny">Oceny</string>
+    <string name="buttonSrednia">Oblicz średnią</string>
+    <string name="buttonKoniecSukces">Super :)</string>
+    <string name="buttonKoniecFail">Tym razem mi nie poszło :(</string>
+
+    <string name="toastKoniecSukces">Gratulacje otrzymujesz zaliczenie</string>
+    <string name="toastKoniecFail">Wysyłam podanie o zaliczenie warunkowe</string>
+
+    <string-array name="tablicaOceny">
+        <item>Matma</item>
+        <item>Polski</item>
+        <item>Przyrka</item>
+        <item>WF</item>
+        <item>Informatyka</item>
+        <item>Fizyka</item>
+        <item>Historia</item>
+        <item>WOS</item>
+        <item>Plastyka</item>
+        <item>Muzyka</item>
+        <item>Angielski</item>
+        <item>Niemiecki</item>
+        <item>Chemia</item>
+        <item>Rosyjski</item>
+        <item>Programowanie</item>
+    </string-array>
+</resources>
